@@ -1,0 +1,143 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+    
+    
+
+        
+    
+
+
+
+ body{
+
+    background-color:#d7c8b9 ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.todo{
+    min-height: 320px;
+    max-width: 600px;
+    background-color:#ffffff ;
+    margin: auto;
+    padding: 30px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    display: grid;
+    
+}
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+    width: 100%;
+
+
+}
+img{
+    width: 580px;
+    border-radius: 15px;
+    width: 100%
+
+}
+.titulo{
+    padding: 20px;
+    font-size: 35px;
+    font-weight: 400;
+    
+    
+    
+}
+.paragrafo1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    text-align: justify;
+
+}
+.time{
+    color: #7b284f;
+    
+    padding-bottom: 10px;
+}
+.pai-time{
+    background-color:#fff5fa;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+
+}
+.ul{
+    padding-left: 10px;
+     
+     list-style: circle;
+    
+    
+}
+.tempo{
+    padding-left: 20px;
+    margin: 20px;
+    
+}
+.incre{
+    padding: 20px;
+    padding-left: 5px;
+    font-weight: 400;
+    font-size: 2.3em;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#854632 ;
+}
+.todes{
+    padding: 30px;
+    
+}
+.ul2{
+    list-style: circle;
+}
+.dientes{
+    padding: 10px;
+    padding-left: 20px;
+}
+    .intro{
+        padding: 20px;
+        padding-left: 5px;
+        font-weight: 400;
+        font-size: 2.3em;
+        font-family: Arial, Helvetica, sans-serif;
+        color:#854632 ;
+    }
+    .ol{
+        padding: 30px;
+        
+    
+        
+
+    }
+    .intruci{
+        padding: 20px;
+        padding-left: 20px;
+        
+
+    }
+    .nutrr{
+        padding: 20px;
+        padding-left: 5px;
+        font-weight: 400;
+        font-size: 2.3em;
+        font-family: Arial, Helvetica, sans-serif;
+        color:#854632 ;
+        
+    }
+    .nutri{
+        display: flex;
+        justify-content: space-around;
+        padding: 15px;
+        list-style: none;
+        font-weight: 400;
+    }
